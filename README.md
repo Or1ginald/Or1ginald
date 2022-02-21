@@ -9,9 +9,9 @@ It's the fastest way to reach out!
 My projects:
 
 1. :clipboard:  [Todolist](https://or1ginald.github.io/todolist)   
-   This project helps to organized better. Technologies that used here : **TypeScript**, **React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios** , **Material UI**, **Formik**, **tests**. [Code](https://github.com/Or1ginald/todolist)
+   This is a typical todo, there you could put anything you want and edit. Technologies that used here : **TypeScript**, **React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios** , **Material UI**, **Formik**, **tests**. [Code](https://github.com/Or1ginald/todolist)
 2. :relaxed: [Question-cards](https://or1ginald.github.io/questionCards)  
-   This project helps to study with flash cards. Joint project, a team of 3 people. Technologies that used here : **TypeScript**,**React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios**.
+   This project helps to study with quiz-cards. Technologies that used here : **TypeScript**,**React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios**.
    [Code](https://github.com/Or1ginald/questionCards)
 3. :sheep:  [Redux counter](https://or1ginald.github.io/counter/)  
    Small train project with  **TypeScript**,**React**, **Redux**, **Locale storage**,  **Hooks**, **CSS** . [Code](https://github.com/Or1ginald/counter)
