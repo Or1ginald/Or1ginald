@@ -9,7 +9,7 @@ It's the fastest way to reach out!
 My projects:
 
 1. :clipboard:  [Todolist](https://or1ginald.github.io/todolist)   
-   This is a typical todo, there you could put anything you want and edit. Technologies that used here : **TypeScript**, **React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios** , **Material UI**, **Formik**, **tests**. [Code](https://github.com/Or1ginald/todolist)
+   This is a typical todo, there you could put anything you want and edit it. Technologies that used here : **TypeScript**, **React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios** , **Material UI**, **Formik**, **tests**. [Code](https://github.com/Or1ginald/todolist)
 2. :relaxed: [Question-cards](https://or1ginald.github.io/questionCards)  
    This project helps to study with quiz-cards. Technologies that used here : **TypeScript**,**React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios**.
    [Code](https://github.com/Or1ginald/questionCards)
