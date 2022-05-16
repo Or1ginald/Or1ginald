@@ -1,5 +1,5 @@
 # 🐱‍👤 Welcome! My name is **Vorobev Ivan**
-## 👨🏻‍💻 I'm a Front-End Developer from Moscow, Russia
+## 👨🏻‍💻 I'm a Front-End Developer
 ### 🤍 #### Contact details:
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/ivanchaii)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/ivan-vorobev-277230225/)
