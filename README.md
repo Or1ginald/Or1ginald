@@ -16,7 +16,9 @@ My projects:
 3. :sheep:  [Redux counter](https://or1ginald.github.io/counter/)  
    Small train project with  **TypeScript**,**React**, **Redux**, **Locale storage**,  **Hooks**, **CSS** . [Code](https://github.com/Or1ginald/counter)
 4. :sunglasses:  [Rick-and-Morty/Test-assignment](https://or1ginald.github.io/rick-widget)  
-   Small test assignment project with  **TypeScript**, **React**, **Redux-toolkit**, **ESLint**,  **Hooks**, **SCSS**, **Axios**, **MUI** . [Code](https://github.com/or1ginald/rick-widget)
+   Small test assignment project with  **TypeScript**, **React**, **Redux-toolkit**, **ESLint**,  **Hooks**, **SCSS**, **Axios**, **MUI** . [Code](https://github.com/or1ginald/rick-widget)  
+5. :magick: [ESLint config](https://github.com/or1ginald/eslint-config-ivan)  
+Just custom ESLint + prettier config for fast start, which you can connect with 3 strings of code
    
 
 and ect...
